@@ -1,0 +1,6 @@
+.social{
+    display: flex;
+    justify-content: space-around;
+    max-width: 500px;
+    margin-top: 50px;
+}
